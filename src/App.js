@@ -1,7 +1,12 @@
 import React from "react";
+import Tours from "./components/Tours";
 
 const App = () => {
-  return <div>App</div>;
+  return (
+    <div>
+      <Tours />
+    </div>
+  );
 };
 
 export default App;
