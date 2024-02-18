@@ -16,3 +16,7 @@ ExploreMore Travel Company is a web application designed to showcase various tou
 
 - **React:** The application is built using React, a JavaScript library for building user interfaces.
 - **useState Hook:** React's useState hook is employed for managing state within functional components, enabling dynamic updates to tour information based on user interactions.
+
+## Deployment
+This project is deployed and accessible online. Check it out [here](https://explore-more-travel.netlify.app/).
+
